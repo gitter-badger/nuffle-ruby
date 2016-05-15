@@ -2,6 +2,8 @@
 
 # Nuffle, The Ruby Library
 
+[![Join the chat at https://gitter.im/nuffleapp/nuffle-ruby](https://badges.gitter.im/nuffleapp/nuffle-ruby.svg)](https://gitter.im/nuffleapp/nuffle-ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Nuffle, The Ruby Library, is a simple library that provides the functionality to roll one die with any number of sides.
 
 
